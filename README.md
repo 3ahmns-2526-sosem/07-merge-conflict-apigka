@@ -1,4 +1,4 @@
-# 07-helloGH-apigka
+# 07-merge-conflict-apigka
 
 
 HEAD
