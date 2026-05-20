@@ -12,3 +12,9 @@ Dieses Projekt wurde online auf GitHub bearbeitet.
 
 Dieses Projekt wurde lokal und online bearbeitet.
 Der Merge Conflict wurde gelöst.
+
+Status der Issues
+
+- [**Issue 1:** Create merge conflict] 
+- [**Issue 2:** Resolve merge conflict] 
+- [**Issue 3:** Verify and Clean Up] 
